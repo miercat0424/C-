@@ -19,7 +19,7 @@ int main()
     
 
     cout << "Roses are "   << color        << endl ;
-    cout << pluralNoun      << " are blue " << endl ;
+    cout << pluralNoun     << " are blue " << endl ;
     cout << "I Love  "     << celebrity    << endl ;
 
 
