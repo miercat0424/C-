@@ -21,7 +21,7 @@ int main()
 
         if(guessCount == guessLimit)
         {
-            cout << "\nGuess Count Limited"      << endl ;
+            cout << "\nGuess Count Limited"     << endl ;
             outofGuesses = true                         ;
             break                                       ;
         }
@@ -29,11 +29,11 @@ int main()
 
     if(outofGuesses == true)
     {
-        cout << "\nYou Loose"                             ;
+        cout << "\nYou Loose"                           ;
     }
     else
     {
-        cout << "\nYou Win"                               ;
+        cout << "\nYou Win"                             ;
     }
 
     return 0 ;
